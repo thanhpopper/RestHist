@@ -1,3 +1,4 @@
+## Cấu trúc repo
 - Split_data.py là file chia dữ liệu.
 - Output_split chứa 2 file csv thể hiện những bệnh nhân nào chia vào tập train và test.
 - K_classification là notebook thực hiện việc train mô hình.
@@ -7,3 +8,7 @@
 
 Data: 
 Download từ link https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
+
+## Hướng cập nhật
+- Thử nghiệm thêm data augmentation
+- Thêm requirements.txt
